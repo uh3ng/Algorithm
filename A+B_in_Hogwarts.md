@@ -20,7 +20,7 @@
 
 从最低的knut开始算起，相加取模作为新的knut，把和除以29作为进位，以后依次。。。
 
-```
+```cpp
 #pragma warning (disable:4996)
 #include <cstdio>
 using namespace std;
