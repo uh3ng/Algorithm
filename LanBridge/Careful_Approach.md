@@ -42,6 +42,7 @@ Case 2: 20:00
 #include <cstdio>
 #include <string>
 #include <algorithm>
+#include <math.h>
 using namespace std;  
 const int M = 10;  
 int num[M], pos[M];  
